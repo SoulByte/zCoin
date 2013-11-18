@@ -13,7 +13,7 @@ Then run the shell.py file in order to access zCoin commands.
 Relay Node
 ==========
 
-If you would like to help out the zCoin network you will first need to open port 6565 then open config.py and set relay to 1.
+If you would like to help out the zCoin network you will first need to open port 6565 (TCP) then open config.py and set relay to 1.
 
 Mining
 ======
